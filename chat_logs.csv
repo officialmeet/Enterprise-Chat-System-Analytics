@@ -1,0 +1,2 @@
+timestamp,channel,message_type,sender,recipient,message
+2026-08-05T18:57:59.8920458,general,SYSTEM,SERVER,ALL,"Alex joined"
